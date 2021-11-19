@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whatsapp-without-contact/static/css/main.650a5516.chunk.css",
+    "main.js": "/whatsapp-without-contact/static/js/main.c63328ab.chunk.js",
+    "main.js.map": "/whatsapp-without-contact/static/js/main.c63328ab.chunk.js.map",
+    "runtime-main.js": "/whatsapp-without-contact/static/js/runtime-main.bacbb529.js",
+    "runtime-main.js.map": "/whatsapp-without-contact/static/js/runtime-main.bacbb529.js.map",
+    "static/css/2.97094cdd.chunk.css": "/whatsapp-without-contact/static/css/2.97094cdd.chunk.css",
+    "static/js/2.c0fc9cc0.chunk.js": "/whatsapp-without-contact/static/js/2.c0fc9cc0.chunk.js",
+    "static/js/2.c0fc9cc0.chunk.js.map": "/whatsapp-without-contact/static/js/2.c0fc9cc0.chunk.js.map",
+    "static/js/3.4b19d144.chunk.js": "/whatsapp-without-contact/static/js/3.4b19d144.chunk.js",
+    "static/js/3.4b19d144.chunk.js.map": "/whatsapp-without-contact/static/js/3.4b19d144.chunk.js.map",
+    "index.html": "/whatsapp-without-contact/index.html",
+    "static/css/2.97094cdd.chunk.css.map": "/whatsapp-without-contact/static/css/2.97094cdd.chunk.css.map",
+    "static/css/main.650a5516.chunk.css.map": "/whatsapp-without-contact/static/css/main.650a5516.chunk.css.map",
+    "static/js/2.c0fc9cc0.chunk.js.LICENSE.txt": "/whatsapp-without-contact/static/js/2.c0fc9cc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bacbb529.js",
+    "static/css/2.97094cdd.chunk.css",
+    "static/js/2.c0fc9cc0.chunk.js",
+    "static/css/main.650a5516.chunk.css",
+    "static/js/main.c63328ab.chunk.js"
+  ]
+}
